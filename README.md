@@ -37,7 +37,7 @@
 
 ---
 
-<h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">Socials</h2>
+<h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">The Socials</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/faiz-imam/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://www.instagram.com/faiz_imam__"><img src="https://skillicons.dev/icons?i=instagram" /></a>
@@ -52,7 +52,7 @@
 </p>
 
 ---
-<h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">📊 GitHub Analytics </h2>
+<h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">GitHub Analytics </h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IsacSmile&show_icons=true&theme=radical" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacSmile&layout=compact&theme=radical" height="200"/>
