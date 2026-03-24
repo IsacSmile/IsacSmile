@@ -75,3 +75,16 @@
     ﴿ إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتّىٰ يُغَيِّرُوا مَا بِأَنْفُسِهِمْ ﴾
   </i>
 </p>
+
+---
+
+<!-- ==================== LIVE DEVELOPER METRICS ==================== -->
+<h2 align="center">Live Developer Metrics</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakina1303&theme=tokyonight" width="90%" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakina1303&theme=tokyo-night&hide_border=true" width="90%" alt="Activity Graph" />
+</p>
