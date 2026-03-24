@@ -86,7 +86,7 @@
 <h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">A Reminder</h2>
 <p align="center">
   <i>
-    "Indeed, Allah will not change the condition of a people until they change what is in themselves."<br>
+    Indeed, Allah will not change the condition of a people until they change what is in themselves. <br>
     ﴿ إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتّىٰ يُغَيِّرُوا مَا بِأَنْفُسِهِمْ ﴾
   </i>
 </p>
