@@ -6,8 +6,8 @@
 <p align="center">
   <!-- Animated Waving Text in a curvy, visible font -->
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ٱلسَّلَامُ عَلَيْكُمْ%20I'm%20Faiz&fontSize=60&animation=fadeIn&font=Pacifico&gradient=ffb6c1,ffc0cb" 
-    alt="Animated ٱلسَّلَامُ عَلَيْكُمْ I'm Faiz" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey!%20I'm%20Faiz&fontSize=60&animation=fadeIn&font=Pacifico&gradient=ffb6c1,ffc0cb" 
+    alt="Animated Hey! I'm Faiz" 
   />
 </p>
 ---
