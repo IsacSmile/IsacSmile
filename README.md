@@ -1,15 +1,15 @@
+<!-- ==================== HEADER ==================== -->   
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=IsacSmile&label=Profile%20Views&color=ffb6c1&style=flat-square" alt="Profile views" />
 </p>
 <p align="center" style="display:flex; align-items:center; justify-content:center; gap:20px;">
 <p align="center">
-
-<h1 align="center">Hey! I'm Faiz 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=I'm+Faiz+%7C+React+Developer;Building+Clean+Web+Experiences;Always+Learning+%26+Shipping" />
+  <!-- Animated Waving Text in a curvy, visible font -->
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey!%20I'm%20Sakina&fontSize=60&animation=fadeIn&font=Pacifico&gradient=ffb6c1,ffc0cb" 
+    alt="Animated ٱلسَّلَامُ عَلَيْكُمْ I'm Faiz" 
+  />
 </p>
-
 ---
 
 <h3 align="center">🚀 React Developer | Builder Mindset</h3>
