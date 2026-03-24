@@ -18,11 +18,23 @@
 
 ---
 
-## 🧠 About Me
-- 💻 Focused on React & modern web
-- ⚡ Building real-world projects
-- 📈 Growing daily as a developer
-- 🤝 Open to collaborations & work
+<!-- ==================== ABOUT ME ==================== -->
+<h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">About Me</h2>
+
+<p align="center" style="max-width:700px; margin:auto; line-height:1.8em; font-family:'Fira Code', monospace; font-size:16px; color:#222; text-shadow: 0.5px 0.5px 1px #ccc;">
+  MERN developer focused on building and shipping <strong>production-ready applications</strong><br>
+  Skilled in crafting <strong>clean, responsive, and user-centric interfaces</strong><br>
+  Proficient in <strong>
+    JavaScript, TypeScript,<br>
+    React, React Native, Node.js,<br>
+    MySQL, Supabase
+  </strong><br><br>
+  Currently exploring <strong>Solidity</strong> and systems at the intersection of web and blockchain<br><br>
+  <strong>Open to meaningful collaborations and real-world projects</strong><br>
+  <strong>Committed to continuous learning and execution</strong>
+</p>
+
+<div style="height:30px;"></div>
 
 ---
 
