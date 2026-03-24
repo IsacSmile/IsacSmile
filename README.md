@@ -52,7 +52,6 @@
 </p>
 
 ---
-
 <h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">📊 GitHub Analytics </h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IsacSmile&show_icons=true&theme=radical" height="150"/>
