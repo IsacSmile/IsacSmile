@@ -31,7 +31,6 @@
   </strong><br><br>
   Currently exploring <strong>Solidity</strong> and systems at the intersection of web and blockchain<br><br>
   <strong>Open to meaningful collaborations and real-world projects</strong><br>
-  <strong>Committed to continuous learning and execution</strong>
 </p>
 
 <div style="height:30px;"></div>
