@@ -1,3 +1,9 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=IsacSmile&label=Profile%20Views&color=ffb6c1&style=flat-square" alt="Profile views" />
+</p>
+<p align="center" style="display:flex; align-items:center; justify-content:center; gap:20px;">
+<p align="center">
+
 <h1 align="center">Hey! I'm Faiz 👋</h1>
 
 <p align="center">
