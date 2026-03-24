@@ -33,7 +33,7 @@
     <strong>Open to meaningful collaborations and real-world projects</strong>
 </p>
 
-<div style="height:30px;"></div>
+<div style="height🕕0px;"></div>
 
 ---
 
