@@ -30,8 +30,7 @@
     MySQL, Supabase
   </strong><br><br>
   Currently exploring <strong>Solidity</strong> and system-level thinking across web and blockchain<br><br>
-  <strong>Open to serious projects and collaborations</strong><br>
-  <strong>Execution-driven. Learning by building.</strong>
+    <strong>Open to meaningful collaborations and real-world projects</strong>
 </p>
 
 <div style="height:30px;"></div>
