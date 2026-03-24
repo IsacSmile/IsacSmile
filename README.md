@@ -5,10 +5,10 @@
 <p align="center" style="display:flex; align-items:center; justify-content:center; gap:20px;">
 <p align="center">
   <!-- Animated Waving Text in a curvy, visible font -->
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=  ٱلسَّلَامُ%20عَلَيْكُمْ%20I'm%20Faiz&fontSize=60&animation=fadeIn&font=Pacifico&gradient=ffb6c1,ffc0cb" 
-    alt="Animated Hey! I'm ٱلسَّلَامُ" 
-  />
+ <img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ٱلسَّلَامُ%20عَلَيْكُمْ%20|%20I'm%20Faiz&fontSize=50&animation=fadeIn&fontAlignY=35&gradient=ffb6c1,ffc0cb" 
+  alt="Assalamualaikum I'm Faiz" 
+/>
 </p>
 ---
    
