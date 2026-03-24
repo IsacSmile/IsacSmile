@@ -15,6 +15,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=I+Build+%26+Ship+Products;MERN+Developer;Building+Thrine+Media;Collecting+My+Own+Shattered+Pieces+%26+Rebuilding+Stronger&font=Roboto+Mono&size=28&duration=2000&pause=1000&color=ffb6c1&center=true&width=600" alt="Typing Text" />
 </p>
+
 ---
 
 ## 🧠 About Me
