@@ -37,30 +37,23 @@
 
 ---
 
-## 🌐 Connect With Me
+<h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">Socials</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://instagram.com/YOUR_LINK"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/faiz-imam/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.instagram.com/faiz_imam__"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="mailto:itsfaizimam@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
 
-## 🛠 Tech Stack
+<h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">The Tools</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,html,css,tailwind,mysql,git,github,vscode" />
 </p>
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IsacSmile&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📊 GitHub Analytics
+<h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">📊 GitHub Analytics </h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IsacSmile&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacSmile&layout=compact&theme=radical" height="150"/>
@@ -68,7 +61,7 @@
 
 ---
 
-## 🔥 Contribution Graph
+<h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">Contribution Graph  </h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsacSmile&theme=react-dark" />
 </p>
