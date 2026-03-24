@@ -6,12 +6,12 @@
 <p align="center">
   <!-- Animated Waving Text in a curvy, visible font -->
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey!%20I'm%20ٱلسَّلَامُ&fontSize=60&animation=fadeIn&font=Pacifico&gradient=ffb6c1,ffc0cb" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=  ٱلسَّلَامُ%20عَلَيْكُمْ%20I'm%20Faiz&fontSize=60&animation=fadeIn&font=Pacifico&gradient=ffb6c1,ffc0cb" 
     alt="Animated Hey! I'm ٱلسَّلَامُ" 
   />
 </p>
 ---
-
+   
 <h3 align="center">🚀 React Developer | Builder Mindset</h3>
 
 ---
