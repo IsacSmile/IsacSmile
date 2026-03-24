@@ -13,7 +13,7 @@
 
    
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=I+Build+%26+Ship+Relentlessly;MERN+Developer;Building+Thrine+Media;Turning+Setbacks+Into+Systems&font=Roboto+Mono&size=28&duration=2000&pause=1000&color=ffb6c1&center=true&width=600" alt="Typing Text" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+%26+and+Shipping+Relentlessly;MERN+Developer;Building+Thrine+Media;Turning+Setbacks+Into+Systems&font=Roboto+Mono&size=28&duration=2000&pause=1000&color=ffb6c1&center=true&width=600" alt="Typing Text" />
 </p>
 
 ---
