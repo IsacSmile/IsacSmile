@@ -5,9 +5,9 @@
 <p align="center" style="display:flex; align-items:center; justify-content:center; gap:20px;">
 <p align="center">
   <!-- Animated Waving Text in a curvy, visible font -->
- <img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ٱلسَّلَامُ%20عَلَيْكُمْ%20|%20I'm%20Faiz&fontSize=50&animation=fadeIn&fontAlignY=35&gradient=ffb6c1,ffc0cb" 
-  alt="Assalamualaikum I'm Faiz" 
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%D9%B1%D9%84%D8%B3%D9%8E%D9%91%D9%84%D9%8E%D8%A7%D9%85%D9%8F%20%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%83%D9%8F%D9%85%D9%92%20%7C%20I'm%20Faiz&fontSize=50&animation=fadeIn&fontAlignY=35&gradient=0f2027,203a43,2c5364" 
+  alt="ٱلسَّلَامُ عَلَيْكُمْ | I'm Faiz" 
 />
 </p>
 ---
