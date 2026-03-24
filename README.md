@@ -6,7 +6,7 @@
 <p align="center">
   <!-- Animated Waving Text in a curvy, visible font -->
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ٱلسَّلَامُ عَلَيْكُمْ&fontSize=50&animation=fadeIn&fontAlignY=35&gradient=0f2027,203a43,2c5364" 
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ٱلسَّلَامُ20%عَلَيْكُمْ&fontSize=50&animation=fadeIn&fontAlignY=35&gradient=0f2027,203a43,2c5364" 
   alt="ٱلسَّلَامُ عَلَيْكُمْ" 
 />
 </p>
