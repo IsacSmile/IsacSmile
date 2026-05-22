@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 Building production-ready applications with a focus on **performance, scalability, and real-world usability**.
 
@@ -29,7 +29,7 @@ Building production-ready applications with a focus on **performance, scalabilit
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,html,css,tailwind,mysql,supabase,git,github,vscode&perline=8" alt="Tech Stack" />
@@ -51,9 +51,10 @@ Building production-ready applications with a focus on **performance, scalabilit
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=IsacSmile&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%"/>
 </p>
+
 ---
 
-## 💡 Core Principles
+##  Core Principles
 <p align="center" style="margin-top: 40px;">
   <i>
     <strong>إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتّىٰ يُغَيِّرُوا مَا بِأَنْفُسِهِمْ</strong>
