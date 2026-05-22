@@ -2,9 +2,15 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=IsacSmile&label=Profile%20Views&color=0A66C2&style=flat" alt="Profile views" />
   
-  # ٱلسَّلَامُ عَلَيْكُمْ I'm **Faiz**
-  
-  ### Full-Stack Developer | MERN Specialist | Building Tomorrow's Solutions
+  <div style="background: linear-gradient(135deg, #0A66C2 0%, #1a5f8a 100%); padding: 40px; border-radius: 15px; margin-bottom: 20px;">
+    <h1 style="font-family: Georgia, serif; font-size: 3.5em; color: white; margin: 0; font-weight: 700; letter-spacing: 2px;">
+      ٱلسَّلَامُ عَلَيْكُمْ
+    </h1>
+    <h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #E8F4F8; margin: 15px 0 0 0; font-size: 2.2em; font-weight: 500;">
+      I'm <strong>Faiz</strong>
+    </h2>
+    <p style="color: #E8F4F8; font-size: 1.1em; margin-top: 10px; font-weight: 300;">Full-Stack Developer | MERN Specialist | Building Tomorrow's Solutions</p>
+  </div>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/faiz-imam/)
   [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:itsfaizimam@gmail.com)
@@ -16,41 +22,30 @@
 
 ## 🚀 About Me
 
-Building production-ready applications with a focus on **performance, scalability, and real-world usability**. 
+Building production-ready applications with a focus on **performance, scalability, and real-world usability**.
 
-- **MERN Stack Specialist** – Full-stack development with JavaScript/TypeScript
-- **Problem Solver** – Transforming complex challenges into elegant, maintainable systems
-- **Continuous Learner** – Exploring Solidity and blockchain architecture
-- **Collaboration-Driven** – Open to meaningful partnerships on impactful projects
+**MERN Stack Specialist** — Full-stack development with JavaScript/TypeScript
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,html,css,tailwind,mysql,supabase,git,github,vscode&perline=8" alt="Tech Stack" />
+</p>
 
 **Languages:** JavaScript | TypeScript  
 **Frontend:** React | React Native | Next.js | Tailwind CSS | HTML/CSS  
 **Backend:** Node.js | Express  
 **Database:** MySQL | Supabase  
-**Tools & Platforms:** Git | GitHub | VS Code | REST APIs
+**Tools:** Git | GitHub | VS Code | REST APIs
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsacSmile&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacSmile&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
-</p>
+## � Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IsacSmile&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="90%"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsacSmile&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsacSmile&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity Graph" width="95%"/>
 </p>
 
 ---
