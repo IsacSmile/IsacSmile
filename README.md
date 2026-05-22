@@ -1,93 +1,74 @@
 <!-- ==================== HEADER ==================== -->   
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=IsacSmile&label=Profile%20Views&color=ffb6c1&style=flat-square" alt="Profile views" />
-</p>
-<p align="center" style="display:flex; align-items:center; justify-content:center; gap:20px;">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=IsacSmile&label=Profile%20Views&color=0A66C2&style=flat" alt="Profile views" />
+  
+  # ٱلسَّلَامُ عَلَيْكُمْ I'm **Faiz**
+  
+  ### Full-Stack Developer | MERN Specialist | Building Tomorrow's Solutions
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/faiz-imam/)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:itsfaizimam@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/faiz_imam__)
+  
+</div>
+
+---
+
+## 🚀 About Me
+
+Building production-ready applications with a focus on **performance, scalability, and real-world usability**. 
+
+- **MERN Stack Specialist** – Full-stack development with JavaScript/TypeScript
+- **Problem Solver** – Transforming complex challenges into elegant, maintainable systems
+- **Continuous Learner** – Exploring Solidity and blockchain architecture
+- **Collaboration-Driven** – Open to meaningful partnerships on impactful projects
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript | TypeScript  
+**Frontend:** React | React Native | Next.js | Tailwind CSS | HTML/CSS  
+**Backend:** Node.js | Express  
+**Database:** MySQL | Supabase  
+**Tools & Platforms:** Git | GitHub | VS Code | REST APIs
+
+---
+
+## 📊 GitHub Analytics
 <p align="center">
-  <!-- Animated Waving Text in a curvy, visible font -->
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%D9%B1%D9%84%D8%B3%D9%8E%D9%91%D9%84%D9%8E%D8%A7%D9%85%D9%8F%20%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%83%D9%8F%D9%85%D9%92%20I'm%20Faiz&fontSize=50&animation=fadeIn&fontAlignY=35&gradient=0f2027,203a43,2c5364" 
-  alt="ٱلسَّلَامُ عَلَيْكُمْ I'm Faiz" 
-/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IsacSmile&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacSmile&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 </p>
 
-   
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+%26+Shipping+Relentlessly;MERN+Developer;Building+Thrine+Media;Turning+Setbacks+Into+Systems&font=Roboto+Mono&size=28&duration=2000&pause=1000&color=ffb6c1&center=true&width=600" alt="Typing Text" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IsacSmile&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="90%"/>
 </p>
 
 ---
 
-<!-- ==================== ABOUT ME ==================== -->
-<h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">About Me</h2>
+## 📈 Contribution Activity
 
-<p align="center" style="max-width:700px; margin:auto; line-height:1.8em; font-family:'Fira Code', monospace; font-size:16px; color:#222; text-shadow: 0.5px 0.5px 1px #ccc;">
-  MERN developer building and shipping <strong>production-ready applications</strong><br>
-  Focused on <strong>performance, simplicity, and real-world usability</strong><br>
-  Proficient in <strong>
-    JavaScript, TypeScript,<br>
-    React, React Native, Node.js,<br>
-    MySQL, Supabase
-  </strong><br><br>
-  Currently exploring <strong>Solidity</strong> and system-level thinking across web and blockchain<br><br>
-    <strong>Open to meaningful collaborations and real-world projects</strong>
-</p>
-
-<div style="height:60px;"></div>
-
----
-
-<h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">The Socials</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/faiz-imam/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://www.instagram.com/faiz_imam__"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="mailto:itsfaizimam@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsacSmile&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%"/>
 </p>
 
 ---
 
-<h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">The Tools</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,html,css,tailwind,mysql,git,github,vscode" />
-</p>
-
----
-<h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">GitHub Analytics </h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsacSmile&show_icons=true&theme=radical" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacSmile&layout=compact&theme=radical" height="200"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IsacSmile&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
-</p>
-
----
-
-<h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">Contribution Graph  </h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsacSmile&theme=react-dark" />
-</p>
-
----
-
-<!-- ==================== LIVE DEVELOPER METRICS ==================== -->
-<h2 align="center">Live Developer Metrics</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsacSmile&theme=tokyonight" width="90%" alt="Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsacSmile&theme=tokyo-night&hide_border=true" width="90%" alt="Activity Graph" />
-</p>
-
----
-
-<h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">A Reminder</h2>
-<p align="center">
+## 💡 Core Principles
+<p align="center" style="margin-top: 40px;">
   <i>
-    إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتّىٰ يُغَيِّرُوا مَا بِأَنْفُسِهِمْ 
-   <br> 
-    Indeed, Allah will not change the condition of a people until they change what is in themselves.
+    <strong>إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتّىٰ يُغَيِّرُوا مَا بِأَنْفُسِهِمْ</strong>
+    <br><br>
+    "Indeed, Allah will not change the condition of a people until they change what is in themselves."
+    <br> — Quran 13:11
   </i>
 </p>
+
+<div align="center" style="margin-top: 60px; padding: 20px; border-top: 2px solid #0A66C2;">
+  
+  ### Let's Build Something Amazing Together! 🚀
+  
+  ![Profile views](https://komarev.com/ghpvc/?username=IsacSmile&label=Visitors&color=0A66C2&style=flat)
+  
+</div>
