@@ -48,7 +48,9 @@ Building production-ready applications with a focus on **performance, scalabilit
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsacSmile&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity Graph" width="95%"/>
 </p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IsacSmile&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%"/>
+</p>
 ---
 
 ## 💡 Core Principles
