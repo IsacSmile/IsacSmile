@@ -4,8 +4,9 @@
   
   <div style="background: linear-gradient(135deg, #0A66C2 0%, #1a5f8a 100%); padding: 40px; border-radius: 15px; margin-bottom: 20px;">
     <h1 style="font-family: Georgia, serif; font-size: 3.5em; color: white; margin: 0; font-weight: 700; letter-spacing: 2px;">
-      ٱلسَّلَامُ عَلَيْكُمْ
+      السَّلام
     </h1>
+    <p style="font-family: Georgia, serif; font-size: 1.3em; color: #E8F4F8; margin: 8px 0 15px 0; font-weight: 300;">آمل أن تكون بخير</p>
     <h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #E8F4F8; margin: 15px 0 0 0; font-size: 2.2em; font-weight: 500;">
       I'm <strong>Faiz</strong>
     </h2>
@@ -60,10 +61,4 @@ Building production-ready applications with a focus on **performance, scalabilit
   </i>
 </p>
 
-<div align="center" style="margin-top: 60px; padding: 20px; border-top: 2px solid #0A66C2;">
-  
-  ### Let's Build Something Amazing Together! 🚀
-  
-  ![Profile views](https://komarev.com/ghpvc/?username=IsacSmile&label=Visitors&color=0A66C2&style=flat)
-  
-</div>
+
