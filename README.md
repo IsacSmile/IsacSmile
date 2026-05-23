@@ -21,15 +21,14 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-Building production-ready applications with a focus on **performance, scalability, and real-world usability**.
-
-**MERN Stack Specialist** — Full-stack development with JavaScript/TypeScript
+Building production-ready applications 
+**MERN DEV** — Full-stack development strong hand in JavaScript/TypeScript
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,html,css,tailwind,mysql,supabase,git,github,vscode&perline=8" alt="Tech Stack" />
