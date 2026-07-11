@@ -2,14 +2,12 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=IsacSmile&label=Profile%20Views&color=0A66C2&style=flat" alt="Profile views" />
   
-  <div style="background: linear-gradient(135deg, #0A66C2 0%, #1a5f8a 100%); padding: 40px; border-radius: 15px; margin-bottom: 20px;">
    
    
     <h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #E8F4F8; margin: 15px 0 0 0; font-size: 2.2em; font-weight: 500;">
       I'm <strong>Faiz</strong>
     </h2>
     <p style="color: #E8F4F8; font-size: 1.1em; margin-top: 10px; font-weight: 300;">Full-Stack Developer | MERN Specialist | Building Tomorrow's Solutions</p>
-  </div>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/faiz-imam/)
   [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:itsfaizimam@gmail.com)
