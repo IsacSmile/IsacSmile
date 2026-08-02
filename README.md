@@ -46,12 +46,7 @@ Building production-ready applications
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsacSmile&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity Graph" width="95%"/>
-</p>
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=isacsmile&theme=highcontrast" alt="GitHub Streak" /></a>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IsacSmile&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
 ---
 
