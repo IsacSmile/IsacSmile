@@ -46,7 +46,9 @@ Building production-ready applications
 
 ## 📊 GitHub Analytics
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IsacSmile&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+<center>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IsacSmile&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+</center>
 
 ---
 
