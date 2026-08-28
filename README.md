@@ -23,8 +23,8 @@
 
 ## About Me
 
-Building production-ready applications 
-**MERN DEV** — Full-stack development strong hand in JavaScript/TypeScript
+Building production-ready applications,
+**MERN DEV** — Full-stack development strong hand in JavaScript as well as in TypeScript
 
 ---
 
